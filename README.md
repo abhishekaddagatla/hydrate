@@ -26,6 +26,20 @@ It also detects when you open your laptop after a break and immediately reminds 
 
 **No Dock icon. No bloat. Just water reminders.**
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/menubar.png" width="130" alt="Menu bar countdown">
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/dropdown.png" width="250" alt="Dropdown menu">
+</p>
+
+<p align="center">
+  <img src="screenshots/reminder.png" width="250" alt="Reminder dialog">
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/preferences.png" width="250" alt="Preferences window">
+</p>
+
 ## Features
 
 - **Menu bar countdown** — always see how long until your next reminder
